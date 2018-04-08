@@ -1,0 +1,13 @@
+{
+    "name": "Hello PWA",
+    "shoft_name": "Hello PWA",
+    "icons": [{
+        "src": "icons/icon-128x128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+    }],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#BD913F",
+    "theme_color": "#916028"
+}
